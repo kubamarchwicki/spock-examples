@@ -1,0 +1,13 @@
+.gradle
+#IDEA-specific
+.idea
+build
+out
+*.iml
+*.ipr
+*.iws
+#Eclipse-specific
+.settings/
+.classpath
+target
+.project
